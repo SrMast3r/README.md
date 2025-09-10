@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me:
 👋 Hi! I'm **SrMaster**, Electronics Engineer and passionate developer.<br>
 🚀 Specialized in **Minecraft Modding**, **Paper Plugins Development**, and **Game Development**.<br>
@@ -7,15 +9,9 @@
 
 
 # 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_SrMaster_)
-[![Discord Presence](https://img.shields.io/badge/Discord-srmaster-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TU_USER_ID)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_SrMaster_) 
+[![Discord](https://img.shields.io/badge/Discord-srmaster-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/638198106156040192) 
 [![Team Website](https://img.shields.io/badge/HyLegacy%20Studio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hylegacy.com/)  
-
-![Discord Presence](https://lanyard.cnrad.dev/api/638198106156040192)
-
-
-
-
 
 
 # 💻 Tech Stack:
@@ -44,3 +40,4 @@
 # 🔗 Visitor Counter
 ![Visitas](https://komarev.com/ghpvc/?username=SrMast3r&label=Profile%20Views&color=brightgreen&style=flat)
 
+</div>
